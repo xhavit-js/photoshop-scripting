@@ -1,0 +1,1 @@
+这个文件应该被template.psd文件替换，该psd中必须有名为text的根图层
